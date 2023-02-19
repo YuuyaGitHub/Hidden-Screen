@@ -1,0 +1,10 @@
+C:\Users\arai1\source\repos\HiddenScreen\bin\Debug\HiddenScreen.exe
+C:\Users\arai1\source\repos\HiddenScreen\bin\Debug\HiddenScreen.pdb
+C:\Users\arai1\source\repos\HiddenScreen\obj\Debug\HiddenScreen.csproj.AssemblyReference.cache
+C:\Users\arai1\source\repos\HiddenScreen\obj\Debug\HiddenScreen.Form1.resources
+C:\Users\arai1\source\repos\HiddenScreen\obj\Debug\HiddenScreen.Properties.Resources.resources
+C:\Users\arai1\source\repos\HiddenScreen\obj\Debug\HiddenScreen.csproj.GenerateResource.cache
+C:\Users\arai1\source\repos\HiddenScreen\obj\Debug\HiddenScreen.csproj.CoreCompileInputs.cache
+C:\Users\arai1\source\repos\HiddenScreen\obj\Debug\HiddenScreen.exe
+C:\Users\arai1\source\repos\HiddenScreen\obj\Debug\HiddenScreen.pdb
+C:\Users\arai1\source\repos\HiddenScreen\obj\Debug\HiddenScreen.Form2.resources
