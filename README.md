@@ -1,5 +1,5 @@
 # Hidden Screen
-This program is a program that hides certain parts of the screen.
+This program is a program that hides part or all of the screen.
 <br>With this program, you don't have to physically hide your screen.
 
 ## Features
